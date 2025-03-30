@@ -1,6 +1,8 @@
 # TechFest | SIMMC
 
-Welcome to the official repository for the **TechFest | SIMMC** website. This platform provides all the essential details regarding the TechFest event, including event schedules, registration and more.
+### This is just a simple UI that I made in the *Design Fire* competition of SIMMC. 
+
+Welcome to the repository for the **TechFest | SIMMC** website. This platform provides all the essential details regarding the TechFest event, including event schedules, registration and more.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -36,7 +38,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/alonepranav/techfest-simmc.git
+git clone https://github.com/alonepranav/TechFest-SIMMC.git
 
 # Navigate to the project directory
 cd techfest-simmc
@@ -45,7 +47,7 @@ cd techfest-simmc
 npm install
 
 # Start the development server
-npm start
+npm run dev
 ```
 
 ## Contributing
@@ -56,7 +58,7 @@ Contributions are welcome! If you'd like to improve the website:
 3. Make your changes and commit: `git commit -m 'Add new feature'`.
 4. Push to the branch: `git push origin feature-branch`.
 5. Open a pull request.
- 
+
 ---
 
 For more details, visit the official website: [TechFest | SIMMC](https://techfest-simmc.netlify.app/)
